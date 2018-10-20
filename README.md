@@ -1,2 +1,2 @@
 # hello_world
-Open worspce to collect ideas
+Open workspace to collect ideas
